@@ -317,7 +317,7 @@ main {
     color: #6B6D97;
 }
 
-.main-bildirishnoma {
+.main-cookies {
     padding: 25px 20px 25px 35px;
     display: flex;
     align-items: center;
@@ -325,7 +325,7 @@ main {
     border-radius: 5px;
 }
 
-.main-bildirishnoma::before {
+.main-cookies::before {
     width: 31px;
     height: 35px;
     content: "";
@@ -335,13 +335,13 @@ main {
     margin-right: 17px;
 }
 
-.main-bildirishnoma-text {
+.main-cookies-text {
     font-size: 20px;
     font-weight: 500;
     margin-right: auto;
 }
 
-.main-bildirishnoma_btn {
+.main-cookies_btn {
     padding: 8px;
     padding-left: 15px;
     background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
